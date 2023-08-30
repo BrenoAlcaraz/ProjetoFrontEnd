@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 alteração local
-=======
 alteração local
->>>>>>> 7b4f6aef5c5da5c2d0b278e34631590f00d13fdd
+
